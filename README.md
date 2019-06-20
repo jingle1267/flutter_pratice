@@ -12,6 +12,12 @@ Engine • revision 52c7a1e849
 Tools • Dart 2.3.0 (build 2.3.0-dev.0.5 a1668566e5)
 ```
 
+## 代码介绍
+
+[Hello World](https://github.com/jingle1267/flutter_pratice/blob/master/lib/pages/hello.dart)
+[image sample](https://github.com/jingle1267/flutter_pratice/blob/master/lib/pages/image.dart)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
